@@ -1,0 +1,62 @@
+.main {
+  height: 100px;
+  width: 100%;
+}
+.main1 {
+  height: 100px;
+  width: 200px;
+  float: left;
+}
+.main2 {
+  height: 50px;
+  width: 200px;
+}
+.main3 {
+  float: right;
+  color: violet;
+  font-family: calibri;
+  font-size: 20px;
+}
+.main4 {
+  height: 100px;
+  width: 900+100-50px;
+  float: right;
+  color: yellow;
+}
+.main5 {
+  height: 50px;
+  width: 100%;
+  color: orange;
+}
+.main6 {
+  height: 50px;
+  width: 140px;
+  float: right;
+  color: darkgray;
+  font-family: calibri;
+  font-size: 20px;
+}
+.main7 {
+  background-image: url("../bc1.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-clip: padding-box;
+  height: 750px;
+  width: 100%;
+}
+.main8 {
+  padding-block-start: 200px;
+  height: 10px;
+  width: 500px;
+  color: white;
+  font-size: 70px;
+  font-family: arial;
+}
+.main9 {
+  padding-block-start: 75px;
+  height: 10px;
+  width: 500px;
+  color: white;
+  font-size: 70px;
+  font-family: arial;
+}
